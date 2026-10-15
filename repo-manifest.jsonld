@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/viewflow/django-fsm/commit/88eeeca1a4f7b5a88c8aa9fce5fecbb5ceb2b74f",
       "git:hexsha": "88eeeca1a4f7b5a88c8aa9fce5fecbb5ceb2b74f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T08:55:41.177262+00:00"
     },
     {
       "@id": "https://repolex.ai/r/viewflow/django-fsm/commit/02ad0c2b456f632139fa2c235634643c8f954053",
