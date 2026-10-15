@@ -1,0 +1,11 @@
+{
+  "org": "viewflow",
+  "repo": "django-fsm",
+  "versions": [
+    {
+      "commit": "88eeeca1a4f7b5a88c8aa9fce5fecbb5ceb2b74f",
+      "tag": "",
+      "parsed_at": "2026-10-15T08:55:41.177778+00:00"
+    }
+  ]
+}
